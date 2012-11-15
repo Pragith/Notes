@@ -1,4 +1,4 @@
 Notes
 =====
 
-A simple notes app written in PHP and MySQL.
+A simple notes script written in PHP to work with MySQL and MongoDB.
